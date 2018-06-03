@@ -75,11 +75,27 @@ h2
   margin: 0px auto;
 }
 
+.container_seccion
+{
+  display: grid;
+  grid-template:  1fr/ 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-column-gap: 15px;
+  width: 90%;
+  margin: 0px auto;
+}
+
 .item_originales
 {
   background-color: #fff;
   height: 52vh;
 }
+
+.item_seccion
+{
+  background-color: #fff;
+  height: 150px;
+}
+
 
 .original_peli
 {
