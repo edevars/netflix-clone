@@ -12,6 +12,11 @@ nav
   margin-bottom: 20px;
 }
 
+section
+{
+  margin-bottom: 30px;
+}
+
 .flex_left
 {
   display: flex;
@@ -70,7 +75,7 @@ h2
 {
   display: grid;
   grid-template:  1fr/ 1fr 1fr 1fr 1fr 1fr;
-  grid-column-gap: 15px;
+  grid-column-gap: 20px;
   width: 90vw;
   margin: 0px auto;
 }
@@ -79,7 +84,7 @@ h2
 {
   display: grid;
   grid-template:  1fr/ 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-column-gap: 15px;
+  grid-column-gap: 20px;
   width: 90%;
   margin: 0px auto;
 }
