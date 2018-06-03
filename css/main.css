@@ -93,11 +93,10 @@ h2
 .item_seccion
 {
   background-color: #fff;
-  height: 150px;
+  height: 18vh;
 }
 
-
-.original_peli
+.adjust_img_to_item
 {
   width: 100%;
   height: 100%;
