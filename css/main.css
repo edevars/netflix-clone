@@ -49,3 +49,19 @@ nav
   color: white;
   padding-left: 30px;
 }
+
+h1
+{
+  font-family: Helvetica;
+  font-size: 36px;
+  padding-left: 70px ;
+  color: white;
+}
+
+h2
+{
+  font-family: Helvetica;
+  font-size: 28px;
+  padding-left: 70px ;
+  color: white;
+}
